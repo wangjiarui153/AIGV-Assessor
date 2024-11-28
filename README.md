@@ -1,3 +1,8 @@
+<div align="center">
+  
+<a href="https://arxiv.org/abs/2411.17221"><img src="https://img.shields.io/badge/Arxiv-2411:03795-red"></a>
+  
+</div>
 <div>
   <h1>AIGV-Assessor: Benchmarking and Evaluating the Perceptual Quality of Text-to-Video Generation with LMM</h1> 
 </div>
