@@ -31,10 +31,22 @@ for stage2 training (fine-tuning the vision encoder and LLM with LoRA)
 ```
 sh shell/train/stage2_train.sh
 ```
+## 🌈 Evaluation
+
+for stage1 evaluation (Text-based quality levels)
+
+```
+sh shell/eval/stage1_eval.sh
+```
+for stage2 evaluation (Scores from 4 perspectives)
+
+```
+sh shell/eval/stage2_eval.sh
+```
 ## 📌 TODO
 - ✅ Release the training code (stage1 and stage2)
 - ✅ Release the evaluation code (stage1 and stage2)
-- [ ] Release the inference code
+- [ ] Release the AIGVQA-DB
 
 
 ## 📧 Contact
