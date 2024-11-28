@@ -1,10 +1,17 @@
+<img width="737" alt="e02e6d28a5d659643e8aeb8d3075740" src="https://github.com/user-attachments/assets/8931d647-7837-4aeb-8c5b-fa077383a48c">
+## 🌈
+Training
 
-## 🌈Training
+for stage1 training (Spatiotemporal Projection Module)
 
 ```
-sh shell/stage1_train.sh
+sh shell/train/stage1_train.sh
 ```
+for stage2 training (fine-tuning the vision encoder and LLM with LoRA)
 
+```
+sh shell/train/stage2_train.sh
+```
 ## 📌 TODO
 - ✅ Release the training code (stage1 and stage2)
 - ✅ Release the evaluation code (stage1 and stage2)
