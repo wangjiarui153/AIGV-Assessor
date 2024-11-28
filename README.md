@@ -2,6 +2,20 @@
   <h1>AIGV-Assessor: Benchmarking and Evaluating the Perceptual Quality of Text-to-Video Generation with LMM</h1> 
 </div>
 <img width="width: 80%" alt="e02e6d28a5d659643e8aeb8d3075740" src="https://github.com/user-attachments/assets/8931d647-7837-4aeb-8c5b-fa077383a48c">
+## 🛠️ Installation
+Clone this repository:
+```
+git clone https://github.com/OpenGVLab/InternVL.git
+```
+Create a conda virtual environment and activate it:
+```
+conda create -n aigvassessor python=3.9 -y
+conda activate aigvassessor
+```
+Install dependencies using requirements.txt:
+```
+pip install -r requirements.txt
+```
 
 ## 🌈 Training
 
