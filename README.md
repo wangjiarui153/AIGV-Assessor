@@ -26,7 +26,7 @@ for stage1 training (Spatiotemporal Projection Module)
 ```
 sh shell/train/stage1_train.sh
 ```
-for stage2 training (fine-tuning the vision encoder and LLM with LoRA)
+for stage2 training (Fine-tuning the vision encoder and LLM with LoRA)
 
 ```
 sh shell/train/stage2_train.sh
