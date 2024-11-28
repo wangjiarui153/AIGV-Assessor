@@ -1,0 +1,10 @@
+{
+  "sharegpt4v_instruct_gpt4-vision_cap100k": {
+    "root": "",
+    "annotation_train": "shell/data/mydata_mos1_train.jsonl",
+    "annotation_test": "shell/data/mydata_mos1_test.jsonl",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 115
+  }
+}
