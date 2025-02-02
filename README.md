@@ -50,10 +50,13 @@ for stage2 evaluation (Scores from 4 perspectives)
 ```
 sh shell/eval/stage2_eval.sh
 ```
+## 🌈 AIGVQA-DB
+The AIGVQA-DB is available at 百度网盘 [https://pan.baidu.com/s/1A521vyf3NuJ6Ptl0KzM0aA?pwd=e2nk] 提取码: e2nk 
+
 ## 📌 TODO
 - ✅ Release the training code (stage1 and stage2)
 - ✅ Release the evaluation code (stage1 and stage2)
-- [ ] Release the AIGVQA-DB
+- ✅ Release the AIGVQA-DB
 
 
 ## 📧 Contact
