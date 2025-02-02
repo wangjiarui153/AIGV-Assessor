@@ -50,7 +50,7 @@ for stage2 evaluation (Scores from 4 perspectives)
 ```
 sh shell/eval/stage2_eval.sh
 ```
-## 🌈 AIGVQA-DB
+## :fire: AIGVQA-DB
 The AIGVQA-DB is available at 百度网盘 [https://pan.baidu.com/s/1A521vyf3NuJ6Ptl0KzM0aA?pwd=e2nk] 提取码: e2nk 
 
 ## 📌 TODO
