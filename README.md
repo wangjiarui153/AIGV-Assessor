@@ -5,7 +5,7 @@
 </div>
 <div>
 
-  <h1>AIGV-Assessor: Benchmarking and Evaluating the Perceptual Quality of Text-to-Video Generation with LMM (CVPR 2025) </h1> 
+  <h1>AIGV-Assessor: Benchmarking and Evaluating the Perceptual Quality of Text-to-Video Generation with LMM (CVPR2025) </h1> 
 </div>
 
 <img width="width: 80%" alt="e02e6d28a5d659643e8aeb8d3075740" src="https://github.com/user-attachments/assets/8931d647-7837-4aeb-8c5b-fa077383a48c">
@@ -68,13 +68,12 @@ If you have any inquiries, please don't hesitate to reach out via email at `wang
 If you find AIGV-Assessor is helpful, please cite:
 
 ```bibtex
-@misc{wang2024aigvassessorbenchmarkingevaluatingperceptual,
-      title={AIGV-Assessor: Benchmarking and Evaluating the Perceptual Quality of Text-to-Video Generation with LMM}, 
-      author={Jiarui Wang and Huiyu Duan and Guangtao Zhai and Juntong Wang and Xiongkuo Min},
-      year={2024},
-      eprint={2411.17221},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2411.17221}, 
+@InProceedings{Wang_2025_CVPR,
+    author    = {Wang, Jiarui and Duan, Huiyu and Zhai, Guangtao and Wang, Juntong and Min, Xiongkuo},
+    title     = {AIGV-Assessor: Benchmarking and Evaluating the Perceptual Quality of Text-to-Video Generation with LMM},
+    booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)},
+    month     = {June},
+    year      = {2025},
+    pages     = {18869-18880}
 }
 ```
