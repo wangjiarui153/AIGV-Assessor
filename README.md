@@ -12,7 +12,9 @@
 
 ## :fire: AIGVQA-DB
 The AIGVQA-DB is available at 百度网盘 [[https://pan.baidu.com/s/1A521vyf3NuJ6Ptl0KzM0aA?pwd=e2nk](https://pan.baidu.com/s/1ypjuRzptC15XtWbM2GONQw?pwd=egkv)] 提取码: egkv
+
 or
+
 Huggingface https://huggingface.co/datasets/IntMeGroup/AIGVQA/tree/main
 
 ## 🛠️ Installation
