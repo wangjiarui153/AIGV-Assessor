@@ -11,7 +11,9 @@
 <img width="width: 80%" alt="e02e6d28a5d659643e8aeb8d3075740" src="https://github.com/user-attachments/assets/8931d647-7837-4aeb-8c5b-fa077383a48c">
 
 ## :fire: AIGVQA-DB
-The AIGVQA-DB is available at 百度网盘 [https://pan.baidu.com/s/1A521vyf3NuJ6Ptl0KzM0aA?pwd=e2nk] 提取码: e2nk 
+The AIGVQA-DB is available at 百度网盘 [[https://pan.baidu.com/s/1A521vyf3NuJ6Ptl0KzM0aA?pwd=e2nk](https://pan.baidu.com/s/1ypjuRzptC15XtWbM2GONQw?pwd=egkv)] 提取码: egkv
+or
+Huggingface https://huggingface.co/datasets/IntMeGroup/AIGVQA/tree/main
 
 ## 🛠️ Installation
 
